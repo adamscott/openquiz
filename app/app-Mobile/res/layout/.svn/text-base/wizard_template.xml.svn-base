@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:paddingBottom="@dimen/Margin"
+    android:paddingTop="@dimen/Margin"
+    class="ca.openquiz.mobile.wizardTemplate$TemplateView">	
+
+	<LinearLayout
+		android:id="@+id/TitleLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center" >
+		    
+        <TextView
+            android:id="@+id/wizardtemplate_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="false"
+            android:gravity="center"
+            android:paddingLeft="100dp"
+            android:paddingRight="100dp"
+            android:paddingBottom="@dimen/Margin"
+            android:text="@string/wizardtemplate_series"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse" />			    
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/TypeLayout"
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_type"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_type"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardtemplate_type_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_weight="1"
+		    android:layout_height="wrap_content" />	
+		    
+		<TextView
+		    android:layout_weight="1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:visibility="invisible" />		
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/CategoryLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_category"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_category"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardtemplate_category_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_weight="1"
+		    android:layout_height="wrap_content" />	
+		    
+		<Spinner
+		    android:id="@+id/wizardtemplate_subcategory_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_weight="1"
+		    android:layout_height="wrap_content" />			    
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/TargetLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_target"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_target"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardtemplate_target_spinner"
+		    android:layout_weight="1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content" />	
+		    
+		<TextView
+		    android:layout_weight="1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:visibility="invisible" />	
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/DifficultyLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_difficulty"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_difficulty"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardtemplate_difficulty_spinner"
+		    android:layout_weight="1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content" />	
+		    
+		<TextView
+		    android:layout_weight="1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:visibility="invisible" />			
+	</LinearLayout>
+    
+	<LinearLayout
+		android:id="@+id/QuantityLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_quantity"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_quantity"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+        <EditText
+            android:id="@+id/txtQuantity"
+            android:layout_width="@dimen/editText_width_small"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+        
+        <TextView
+		    android:id="@+id/wizardtemplate_quantity_max"
+		    android:layout_width="60dp"
+		    android:layout_height="42dp"
+		    android:text="/0"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+        		
+	</LinearLayout>	
+	
+	<LinearLayout
+		android:id="@+id/ScoreLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_score"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_score"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+        <EditText
+            android:id="@+id/txtScore"
+            android:layout_width="@dimen/editText_width_small"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+	</LinearLayout>		
+	
+	<LinearLayout
+		android:id="@+id/DescLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardtemplate_desc"
+		    android:layout_width="150dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardtemplate_desc"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+        <EditText
+            android:id="@+id/txtDesc"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="text" 
+            android:imeOptions="actionDone"/>
+        
+        <EditText
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible"/>      
+	</LinearLayout>		
+	
+</LinearLayout>	    	    

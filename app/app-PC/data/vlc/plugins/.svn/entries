@@ -1,0 +1,143 @@
+10
+
+dir
+1952
+https://rickardsbeer.asuscomm.com/svn/openquiz/Code%20source/app/app-PC/data/vlc/plugins
+https://rickardsbeer.asuscomm.com/svn/openquiz
+
+
+
+2013-12-13T18:40:51.136621Z
+1904
+jean-sebastien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+73af130a-93fb-4d8c-b4c5-e43983ef9e17
+
+audio_mixer
+dir
+
+audio_filter
+dir
+
+notify
+dir
+
+mux
+dir
+
+services_discovery
+dir
+
+text_renderer
+dir
+
+meta_engine
+dir
+
+video_filter
+dir
+
+sse2
+dir
+
+codec
+dir
+
+control
+dir
+
+access_output
+dir
+
+audio_output
+dir
+
+lua
+dir
+
+mmxext
+dir
+
+demux
+dir
+
+stream_out
+dir
+
+gui
+dir
+
+video_output
+dir
+
+plugins.dat
+file
+
+
+
+
+2014-03-07T22:22:19.439559Z
+78a9c3528920fe148e66b51a269b87bc
+2013-12-13T18:40:51.136621Z
+1904
+jean-sebastien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+348097
+
+3dnow
+dir
+
+misc
+dir
+
+video_chroma
+dir
+
+stream_filter
+dir
+
+visualization
+dir
+
+packetizer
+dir
+
+access
+dir
+
+mmx
+dir
+

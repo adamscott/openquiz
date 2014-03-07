@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:fitsSystemWindows="true"
+    android:gravity="center_horizontal"
+    tools:context="ca.openquiz.mobile.bluetooth.BluetoothActivity" >
+
+    <LinearLayout
+        android:id="@+id/MainLayoutVertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/bluetooth_connection_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:paddingTop="@dimen/Margin"
+            android:text="@string/bluetooth_connection_title"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:id="@+id/ButtonsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom"
+                android:gravity="left"
+                android:paddingBottom="@dimen/Margin"
+                android:paddingLeft="@dimen/SidePadding"
+                android:paddingTop="@dimen/Margin" >
+
+                <Button
+                    android:id="@+id/button_refresh"
+                    android:layout_width="@dimen/button_width"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_alignParentBottom="true"
+                    android:text="@string/button_refresh" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ButtonsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom"
+                android:gravity="right"
+                android:paddingBottom="@dimen/Margin"
+                android:paddingRight="@dimen/SidePadding"
+                android:paddingTop="@dimen/Margin" >
+
+                <Button
+                    android:id="@+id/button_ignore"
+                    android:layout_width="@dimen/button_width"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_alignParentBottom="true"
+                    android:text="@string/button_ignore" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/device_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@id/ButtonsLayout"
+                android:layout_alignParentTop="true"
+                android:listSelector="@android:color/holo_blue_light"
+                android:textAppearance="?android:attr/textAppearanceMediumInverse"
+                android:textSize="23sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ca.openquiz.mobile.util.LoadingView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#55000000"
+        android:clickable="true" />
+
+</FrameLayout>

@@ -1,0 +1,4 @@
+﻿	Indice	Reponse	Difficulte	Utilise jeu	Anagramme	Dla marde (Ancienne catégorie)
+1	Termes mathématiques	ADDITION	0	NO	A D D I I N O T 	5
+2	Termes mathématiques	DIVIDENDE	0	NO	D D D E E I I N V 	5
+3	Termes mathématiques	DIVISEUR	0	NO	D E I I R S U V 	5

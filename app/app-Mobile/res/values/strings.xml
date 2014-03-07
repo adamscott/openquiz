@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenQuiz-Mobile</string>
+    <string name="User">Utilisateur :</string>
+    <string name="GameName">Nom de la partie :</string>
+    <string name="Password">Mot de passe :</string>
+    <string name="NoAuthButton">Continuer sans authentification</string>
+    <string name="AuthButton">S\'authentifier</string>
+    <string name="switchToTemplate">Questions aléatoires</string>
+    <string name="questionSetActivity">questionSetActivity</string>
+    <string name="joingame_title">Joindre une partie en cours</string>
+
+    <!-- Team wizard screen -->
+    <string name="wizardteam_group">Groupe</string>
+    <string name="wizardteam_team">Équipe</string>
+    <string name="wizardteam_user">Membres</string>
+    <string name="wizardteam_user_default">Sélectionnez...</string>
+    
+    <!-- QuestionSet wizard screen -->
+    <string name="wizardquestionset_title">Création du questionnaire</string>
+    <string name="wizardquestionset_name">Nom du questionnaire: </string>
+    <string name="wizardquestionset_type">Type: </string>
+    <string name="wizardquestionset_category">Catégorie: </string>
+    <string name="wizardquestionset_difficulty">Difficulté: </string>
+    <string name="wizardquestionset_quantity">Quantité: </string>
+    <string name="wizardquestionset_points">Pointage: </string>
+    
+    <!-- Template creation screen -->
+    <string name="wizardtemplate_title">Questionnaire</string>
+    <string name="wizardtemplate_type">Type</string>
+    <string name="wizardtemplate_category">Catégorie</string>
+    <string name="wizardtemplate_subcategory">Sous-catégorie</string>
+    <string name="wizardtemplate_target">Mode de pointage</string>
+    <string name="wizardtemplate_difficulty">Difficulté</string>
+    <string name="wizardtemplate_quantity">Quantité</string>
+    <string name="wizardtemplate_score">Pointage</string>
+    <string name="wizardtemplate_series">Série</string>
+    <string name="wizardtemplate_desc">Description</string>
+    
+    <!-- Bluetooth -->
+    <string name="bluetooth_connection_title">Connexion Bluetooth</string>
+    <string name="bluetooth_connection_error">La connexion Bluetooth n\'a pas pu être étalie.</string>
+    
+    <!-- Buttons utils -->
+    <string name="button_next">Suivant</string>    
+    <string name="button_join">Joindre une partie</string>
+    <string name="button_joingame">Joindre</string>
+    <string name="button_done">Terminé</string>
+    <string name="button_create">Créer</string>
+    <string name="button_add">Ajouter</string>
+    <string name="button_save">Sauvegarder</string>
+    <string name="button_generate">Générer questionnaire</string>
+    <string name="button_ignore">Ignorer</string>
+    <string name="qsDateLabel">Date de création : </string>
+    <string name="qsCountLabel">Nombre de fois joué : </string>
+    <string name="switchToQuestionSet">Questions prédéfinies</string>
+    <string name="questionSet_Title">Sélection du questionnaire</string>
+    <string name="button_play">Jouer</string>
+    <string name="templateSectionCountLabel">Nombre de sections :</string>
+    <string name="button_refresh">Rafraîchir</string>
+    <string name="positive_dialog_button">Oui</string>
+    <string name="negative_dialog_button">Non</string>
+    
+    <!-- Messages -->
+    <string name="message_title_duplicate_user">Création des équipes</string>
+    <string name="message_info_duplicate_user">Un ou plusieurs utilisateurs se retrouvent dans la même équipe</string>
+    <string name="message_title_empty_fields">Champ(s) manquant(s)</string>
+    <string name="message_info_empty_fields">Un ou plusieurs champs n\'ont pas été remplis</string>
+    <string name="message_webservice_exception_title">Problème de connexion</string>
+    <string name="message_webservice_exception_content">Problème de communication avec le service web.</string>
+    <string name="message_webservice_exception_retry_button">Réessayer</string>
+    <string name="message_webservice_exception_close_button">Fermer l\'application</string>
+    <string name="message_login_error_title">Erreur d\'authentification</string>
+    <string name="message_login_error_message">Le nom d\'utilisateur ou le mot de passe saisi est incorrect</string>
+    <string name="message_game_name_error_title">Nom de partie</string>
+    <string name="message_game_name_error_message">Vous devez entrer un nom de partie avant de continuer</string>
+    <string name="message_game_selection_error_title">Sélection d\'un questionnaire</string>
+    <string name="message_game_selection_error_message">Vous devez sélectionner un questionnaire avant de continuer</string>
+    <string name="message_game_user_logged_error_title">Questionnaire aléatoire</string>
+    <string name="message_game_user_logged_error_message">Vous devez être connecter pour jouer un questionnaire aléatoire</string>
+    <string name="message_empty_fields_message">Le nom d\'utilisateur ou le mot de passe est vide</string>
+    <string name="message_group_not_selected_error_title">Groupe non sélectionné</string>
+    <string name="message_group_not_selected_error_message">Veuillez sélectionner un groupe avant de sélectionner une équipe</string>
+    <string name="message_team_not_selected_error_title">Équipe non sélectionnée</string>
+    <string name="message_team_not_selected_error_message">Veuillez sélectionner une équipe avant de sélectionner un membre</string>
+    <string name="message_template_title_popup_error">Erreur</string>
+    <string name="message_template_info_popup_error">Veuillez remplir les champs Type, Quantité et Pointage pour la série</string>
+    <string name="message_template_title_popup_input">Sauvegarde</string>
+    <string name="message_template_info_popup_input">Titre du questionnaire</string>
+    <string name="message_template_info_popup_questions_max">Il n\'y a pas assez de questions disponibles pour la série</string>
+    <string name="message_logout_title">Déconnexion de l\'usager</string>
+    <string name="message_logout_message">Êtes vous sûr de vouloir vous déconnecter?</string>
+    <string name="message_quit_game_title">Quitter la partie</string>
+    <string name="message_quit_game_message">Êtes vous sûr de vouloir quitter la partie en cours?</string>
+    <string name="message_play_game_title">Jouer une partie</string>
+    <string name="message_play_game_message">Aucune question n\'est disponible pour ce questionnaire.</string>
+</resources>

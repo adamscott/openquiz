@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:background="@drawable/currentgame_team_border_selected" >
+     <TextView 
+         android:id="@+id/teamPoints"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:padding="6dp"
+         android:text="0"
+         android:textAppearance="?android:attr/textAppearanceMedium"
+         android:textSize="23sp"
+         android:layout_toRightOf="@+id/removePoints"
+         android:layout_centerVertical="true" />
+
+     <Button
+         android:id="@+id/addPoints"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:text="+"
+         android:layout_toRightOf="@id/teamPoints"
+         android:layout_centerVertical="true" />
+     <Button
+         android:id="@id/removePoints"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:text="-"
+         android:layout_alignParentLeft="true"
+         android:layout_centerVertical="true" />
+     <ImageButton 
+         android:id="@id/confirmPoints"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="60dp"
+         android:layout_height="60dp"
+         android:src="@drawable/greencheck" 
+         android:text="-"
+         android:layout_alignParentRight="true"
+         android:layout_centerVertical="true" />
+</RelativeLayout>

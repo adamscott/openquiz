@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux
+END
+libmux_wav_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_wav_plugin.dll
+END
+libmux_avi_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_avi_plugin.dll
+END
+libmux_mp4_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_mp4_plugin.dll
+END
+libmux_mpjpeg_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_mpjpeg_plugin.dll
+END
+libmux_ps_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_ps_plugin.dll
+END
+libmux_ts_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_ts_plugin.dll
+END
+libmux_asf_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_asf_plugin.dll
+END
+libmux_dummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_dummy_plugin.dll
+END
+libmux_ogg_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/mux/libmux_ogg_plugin.dll
+END

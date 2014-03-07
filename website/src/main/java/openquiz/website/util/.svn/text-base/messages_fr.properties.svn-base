@@ -1,0 +1,235 @@
+All.aboutUs= À propos de nous
+All.accountsettings=Paramètre du compte
+All.add=Ajouter
+All.addChoice=Ajouter un choix
+All.addGroup=Ajouter un groupe
+All.addStatement=Ajouter une déclaration
+All.addUser=Ajouter un utilisateur
+All.anagram=Anagramme
+All.answer=Réponse
+All.apply=Appliquer
+All.art=Art
+All.association=Association
+All.availableDate=Date disponible
+All.back=Précédent
+All.birthday=Date de naissance
+All.buttonDownload=Télécharger
+All.cancel=Annuler
+All.category=Catégorie
+All.changepassbuttton=Changer le mot passe
+All.choice=Choix
+All.choices=Choix
+All.confirm=Confirmer
+All.connect=Connexion
+All.contactUs=Contactez nous
+All.correctWord=Mot correcte
+All.degree=Degré
+All.delete=Supprimer
+All.download=Téléchargement
+All.downloads=Téléchargements
+All.edit=Modifier
+All.editRole=Modifier le rôle
+All.emailAddress=Adresse courriel
+All.entertainement=Divertissement
+All.errorEmpty=Ne peut pas être vide
+All.errorInvalidAddress=Adresse invalide
+All.errorPasswordSize=Votre mot de passe doit avoir minimum 6 caractères
+All.errorPasswordVerification=La vérification des mots de passes a échoué
+All.errorSamePassword=Veuillez choisir un mot de passe différent
+All.errorProcessingRequest=Il y a eu une erreur lors du traitement de la demande
+All.false=Non
+All.firstName=Prénom
+All.general=Général
+All.group=Groupe
+All.hint=Indice
+All.history=Histoire
+All.home=Accueil
+All.identification=Identification
+All.intru=Intru
+All.invalidFields=Un ou plusieurs champs sont invalides
+All.jira=Jira
+All.language=Langue
+All.lastName=Nom
+All.login=Connexion
+All.logout=Déconnexion
+All.manageGroups=Gestion des groupes
+All.manageQuestions=Gestion des questions
+All.manageQuestionSets=Gestion des questionnaires
+All.manageTeams=Gestion des équipes
+All.manageTemplates=Gestion des modèles
+All.manageUsers=Gestion des usagers
+All.math=Mathématiques
+All.media=Média
+All.modify=Modifier
+All.name=Nom
+All.nextPage=>>
+All.no=Non
+All.notAvailable=Non Disponible
+All.oldPassword=Ancien mot de passe
+All.other=Autre
+All.password=Mot de passe
+All.passwordVerification=Vérification du mot de passe
+All.pleaseLogin=Veuillez vous authentifier.
+All.prevPage=<<
+All.public=Public
+All.question=Question
+All.questions=Questions
+All.questionSet=Questionnaire
+All.reported=Signalée
+All.reportedReason=Raison du signalement
+All.return=Retour
+All.role=Rôle
+All.science=Science
+All.sections=Sections
+All.selectLangugage=Choisir langue
+All.signIn=Inscription
+All.slogan=Génies en herbe libre et accessible
+All.spirituality=Spiritualité
+All.sport=Sport
+All.statistics=Statistiques
+All.successProcessingRequest=La requête a été traitée avec succès !
+All.teams=Équipes
+All.templates=Modèles
+All.true=Oui
+All.type=Type
+All.unknown=Inconnu
+All.user=Utilisateur
+All.validatebutton=Sauvegarder les informations
+All.welcome=Bonjour
+All.world=Monde
+All.yes=Oui
+All.windowChangePassword=Changez votre mot de passe
+All.requiredmessage=Ce champs est obligatoire
+All.error_password_lenth=Votre mot de passe doit contenir au minimum 6 caractères
+All.forgetPassword=Réinitialiser le mot de passe ?
+All.send=Envoyer
+All.notification_enter_email=Vous devez écrire votre adresse courriel afin de réinitialiser votre mot de passe
+All.notification_email_sent=Un courriel a été envoyé à l'adresse associé à votre compte
+All.notification_cancel=Opération annulé
+
+Home.linkForum=http://openquiz.dlinkddns.com:8080/phpBB3/
+Home.linkWiki=http://www.openquiz.wikia.com
+Home.forum=Visitez le forum >>
+Home.wiki=Visitez le wiki >>
+Home.forumDesc=Visiter le forum Openquiz
+Home.wikiDesc=Visiter le wiki Openquiz
+Home.labelWelcome=<h1 align='center'>Bienvenue sur le site OpenQuiz!</h1><p align='justify'> Le projet Openquiz est une collaboration entre une équipe d'étudiants finissants en génie informatique de l'université de sherbrooke et un professeur de l'école secondaire Jean-Jacques Bertrand qui a pour but d'améliorer, de promouvoir et de rendre accessible le génie en herbe au sein de toutes les écoles secondaire du Québec. Le projet se divise en quatre catégories; le logicielle de génie en herbe sur ordinateur, la console de jeu, le site internet assisté d'un service web et finalement une application mobile.</p>
+Home.labelFooter=<h3><b>OpenSource et OpenHardware</b></h3><p align='justify'>Veuillez prendre notre que notre projet est un produit OpenSource et OpenHardware. Il est donc possible de télécharger le logicielle de génie en herbe et/ou l'application mobile et d'obtenir tous les plans de la console sur le site internet même du projet OpenQuiz. </p>
+
+AboutUs.labelStory=<h3><b>Notre histoire</b></h3><p align='justify'>Le projet est une collaboration entre un groupe d'étudiants en génie informatique de l'université de Sherbrooke et un professeur de l'école secondaire Jean-Jacques-Bertrand. Le projet Openquiz est une idée proposé par Mr.Francois Desrochers qui auparavant avait déjà un système de génie en herbe en place mais qui ne satisfaisait plus à ces besoins. Ensemble nous avons réussi à mettre en place une architecture de système répartie tout à fait gratuit et accèssible pour tout ceux qui sont intéressé à participer au projet. Le projet OpenQuiz a été mit en place en deux sessions de 4 mois durant lesquelles l'équipe a développé une application PC et mobile </p>
+AboutUs.labelPcApplication=<h3><b>Application sur ordinateur</b></h3><p align='justify'>Notre équipe a su réinventé le logicielle de génie en herbe qui était déjà en place en intégrant de nouvelles fonctionnalités toute en adaptant les besoins du client. Le logicielle présente une interface graphique facile d\u2019utilisation et fonctionnelle qui simplifie beaucoup le rôle de l\u2019animateur d\u2019une session de génie en herbe. L'interaction entre la console et le logicielle permet à l\u2019animateur d\u2019avoir toutes l\u2019information nécessaire directement à l\u2019écran de son ordinateur ou sur une plateforme Android. La gestion d'une partie est très simple et s'effectue intelligament grâce à une intéraction dynamique du logicielle avec l'animateur.</p><p>L'application logicielle est écrite en Java et l'interface graphique utilise la librairie Swing de Java rendant ainsi l'application disponible autant sur Windows que Mac ou Linux.</p>
+AboutUs.labelGameConsole=<h3><b>Console de jeu</b></h3><p align='justify'>Le coeur de la console est un raspberry pi. Ce système embarqué resauté est un bijou informatique qui permet aux projets de petite envergure d\u2019avoir une panoplie de fonctionnalités à des coûts tout à fait avantageux.Notre client peut alors profiter de nouvelles fonctionnalités pour des coûts tout à fait avantageux; comme par exemple la projection au mur des questions visuelles.</p>
+AboutUs.labelMobileApplication=<h3><b>Application Android</b></h3><p align='justify'>L'application mobile permet à notre client d'avoir la possibilité de pouvoir animer une séance de génie en herbe sur un appareil mobile tel une tablette Android ou un téléphone Android.</p>
+Download.lbIntro=<p align='center'>Puisque la vision du projet Openquiz est de promouvoir le génie en herbe dans les écoles primaire et secondaire, il est possible d'obtenir les applications sur votre ordinateur ou sur un appareil Androide</p>
+Download.lbTitle=<h1 align='center'>Téléchargez les applications OpenQuiz tout à fait gratuitement</h1>
+Download.lbConsole=<h1><b>Console</b></h1><p>En plus des applications PC et Android, il est possible de se procurer les plans et les guides pour construire votre propre console de jeu. Vous retrouverez tout ces informations sur le wiki du projet OpenQuiz.</p>
+Download.lbScript=<h1><b>Scripte</b></h1><p>Les serveurs d'Openquiz sont tous hébergés sur le nuage de google app engine et en tout temps il est possible d'élaborer des nouvelles questions et les sauvegarders sur la base en données. Il suffit de télécharger le scripte sur le wiki et suivre les instructions.</p>
+
+Contactus.lbReachUs=<h3><b>Pour nous rejoindre</b></h3><p align='justify'>Si vous avez des questions ou des commentaires concernant le projet, vous pouvez toujours communiquer par courriel à l'adresse suivante;</p>
+Contactus.lbGeneral=<h3><b>Généralité</b></h3><p>Si vous êtes intéressé par le projet, vous pouvez toujours rejoindre la communitée avec le forum ou le wiki.</p>
+
+MainWebsiteWindow.jiraLinkDesc=Visiter le Jira Openquiz
+MainWebsiteWindow.labelTitle=Veuillez entrer vos information
+MainWebsiteWindow.labelTitleSettings=Information du compte :
+MainWebsiteWindow.labelWelcomeGuest=Bonjour et bienvenue!
+MainWebsiteWindow.notificationFailed=Échec de l'enregistrement
+MainWebsiteWindow.notificationInvalid=Nom d'utilisateur ou le mot de passe est invalide
+MainWebsiteWindow.notificationSucceed=Enregistrement réussi
+MainWebsiteWindow.windowAccountSettings=Paramètres du compte
+MainWebsiteWindow.windowLogin=Accès aux membres
+MainWebsiteWindow.windowSignin=Enregistrement d'un nouvel utilisateur
+MainWebsiteWindow.windowforgetpassword=Récupération du mot de passe
+
+ManageGroups.createGroup=Créer un groupe
+ManageGroups.deleteGroup=Supprimer un groupe
+ManageGroups.deleteGroupConfirmation=Confirmer la suppression du groupe :
+ManageGroups.deleteUserFromGroup=Supperimer un utilisateur d'un groupe
+ManageGroups.deleteUserFromGroupConfirmation= Confirmer la suppression de l'utilisateur du groupe :
+ManageGroups.editGroupConfirmation=Confirmer la modification du nom à : 
+ManageGroups.errorDeletePublic=Impossible de supprimer le groupe Public
+ManageGroups.groupNameEmpty=Veuillez entrer un nom de groupe pour continuer
+ManageGroups.selectAGroup=Sélectionner le groupe à gérer
+
+ManageQuestions.deleteQuestion=Supprimer une question
+ManageQuestions.deleteQuestionConfirmation=Confirmer la suppresion de la question :
+ManageQuestions.questionType=Type de question 
+ManageQuestions.showReported=Afficher les questions signalées
+
+ManageQuestionSets.editQuestionSet=Modifier le questionnaire
+ManageQuestionSets.questionSetSectionCount=Quantité de sections 
+
+ManageTeams.addMember=Ajouter un joueur
+ManageTeams.createTeam=Créer une équipe
+ManageTeams.deleteTeam=Effacer l'équipe
+ManageTeams.deleteTeamConfirmation=Etes vous sur de vouloir éffacer cette équipe?
+ManageTeams.deleteTeamError=Une erreur s'est produite, impossible d'enlever l'équipe
+ManageTeams.editTeam=Modifier l'équipe
+ManageTeams.gamesPlates=Parties jouées
+ManageTeams.groupMember=Membre du groupe
+ManageTeams.manageGroup=Gérer le groupe: 
+ManageTeams.manageTeamInGroup=Gérer les équipes de votre groupe
+ManageTeams.noAdminAccess=Vous n'avez pas le droit d'administrer aucun groupe
+ManageTeams.numberOfMembers=Nombre de membres
+ManageTeams.pleaseSelectTeam=Veuillez selectionner une équipe dans la liste
+ManageTeams.selectUserInList=Veuillez selectionner une équipe dans la liste
+ManageTeams.showTeamMember=Afficher les membres de l'équipe
+ManageTeams.tournamentsPlayed=Tournois jouées
+ManageTeams.userAdded=Utilisateur ajouté
+ManageTeams.userNotFound=Utilisateur introuvable
+ManageTeams.userNotInGroup=L'utilisateur ne fait pas partie de ce groupe
+ManageTeams.viewTeamUserIsMember=Voir les équipes où vous etes membre
+
+ManageTemplates.deleteTemplateConfirmation=Etes vous sur de vouloir éffacer ce template?
+ManageTemplates.errorDeletingModel=Impossible d'effacer le modèle
+ManageTemplates.newTemplate=Nouveau modèle
+ManageTemplates.pleaseSelectATemplate=Veuillez selectionner un modèle dans la liste
+ManageTemplates.questionsNumber=Questions total
+
+QuestionWindow.choices=Choix. Laisser un champ vide supprimera ce choix.
+QuestionWindow.statements=Déclarations. Laisser un champ vide supprimera cette déclaration.
+
+GameStatTab.answersRepartitionLabel=Répartition des réponses
+GameStatTab.badAnswer=Mauvaise réponses
+GameStatTab.game=Partie
+GameStatTab.gameDetails=Détails de la partie
+GameStatTab.gameTiedWithScore=" à fini égalité avec un score de 
+GameStatTab.goodAnswer=Bonne réponses
+GameStatTab.penalty=Penalité
+GameStatTab.player=Joueur
+GameStatTab.points=Points
+GameStatTab.pointsAgainst=\ points contre 
+GameStatTab.pointsForTeamX=\ points pour l'équipe "
+GameStatTab.response=Réponse
+GameStatTab.selectGameNotification=Veuillez sélectionner une partie
+GameStatTab.statsPlayerInTeamLabel=Statistique pour joueur de l'équipe : 
+GameStatTab.team=Équipe
+GameStatTab.teamWonGameVersus=" a gagné la partie avec 
+GameStatTab.theGameX=La partie "
+GameStatTab.theTeam=L'équipe "
+GameStatTab.versus=" contre "
+
+IndividualStatTab.game=Partie
+IndividualStatTab.numberOfGames=Nombre de parties
+IndividualStatTab.answersHeader=<h2>Réponse</h2>
+IndividualStatTab.attempts=Tentatives de réponses
+IndividualStatTab.noAttempts=Pas de tentative de réponse
+IndividualStatTab.numberOfAnswer=Nombre de réponses
+IndividualStatTab.numberOfAttempts=Nombre de tentatives de réponse
+IndividualStatTab.numberOfGamePlayedHeader=<h2>Nombre de parties jouées</h2>
+IndividualStatTab.participationHeader=<h2>Participation</h2>
+IndividualStatTab.participationProgression=Progression de la participation
+IndividualStatTab.progressionOfAnswers=Progression des réponses
+IndividualStatTab.repartitionOfAnswers=Répartition des réponses
+IndividualStatTab.repartitionOfParticipation=Répartition de la participation
+IndividualStatTab.team=Équipe
+IndividualStatTab.teamOrGroup=Équipe ou groupe
+IndividualStatTab.typeCategoryOrTypeQuestion=Type de catégorie ou de question
+
+StatChartHelper.attempts=Tentative de réponse
+StatChartHelper.badAnswers=Mauvaises Réponses
+StatChartHelper.gamesLost=Parties perdues
+StatChartHelper.gamesTied=Parties nulles
+StatChartHelper.gamesWon=Parties gagnées
+StatChartHelper.goodAnser=Bonnes réponses
+StatChartHelper.noAttempts=Pas de tentative de réponse
+StatChartHelper.penalty=Pénalités

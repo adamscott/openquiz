@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1698/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests
+END
+GroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/950/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/GroupTest.java
+END
+TournamentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/950/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/TournamentTest.java
+END
+GroupRoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/openquiz/!svn/ver/927/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/GroupRoleTest.java
+END
+UserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1445/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/UserTest.java
+END
+DBManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/1627/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/DBManagerTest.java
+END
+RoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/RoleTest.java
+END
+TeamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1445/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/TeamTest.java
+END
+GameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1698/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/GameTest.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1290/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/BaseTest.java
+END
+ImportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/openquiz/!svn/ver/1290/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/tests/ImportTest.java
+END

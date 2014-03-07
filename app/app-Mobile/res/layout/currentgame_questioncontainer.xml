@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+    
+    <include android:id="@+id/questionLayoutAnagram" layout="@layout/currentgame_question_anagram"/>
+    <include android:id="@+id/questionLayoutGeneral" layout="@layout/currentgame_question_general"/>
+    <include android:id="@+id/questionLayoutAssociation" layout="@layout/currentgame_question_association"/>
+    <include android:id="@+id/questionLayoutIdentification" layout="@layout/currentgame_question_identification"/>
+    <include android:id="@+id/questionLayoutIntru" layout="@layout/currentgame_question_intru"/>
+    <include android:id="@+id/questionLayoutRightWord" layout="@layout/currentgame_question_general"/>	<!-- implement this -->
+    <include android:id="@+id/questionLayoutMedia" layout="@layout/currentgame_question_media"/>
+
+</ViewFlipper>

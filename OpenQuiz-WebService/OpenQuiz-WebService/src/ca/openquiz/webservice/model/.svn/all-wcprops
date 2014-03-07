@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model
+END
+QuestionIntru.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionIntru.java
+END
+Choice.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/openquiz/!svn/ver/617/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Choice.java
+END
+BaseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/BaseModel.java
+END
+AvailableQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/AvailableQuestions.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/openquiz/!svn/ver/1559/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Group.java
+END
+Tournament.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/openquiz/!svn/ver/1305/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Tournament.java
+END
+QuestionAnagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionAnagram.java
+END
+TemplateSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1828/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/TemplateSection.java
+END
+QuestionAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionAssociation.java
+END
+GameStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1802/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/GameStat.java
+END
+QuestionGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionGeneral.java
+END
+QuestionMedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionMedia.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Question.java
+END
+QuestionSetSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/openquiz/!svn/ver/1793/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionSetSection.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/openquiz/!svn/ver/1698/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Game.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1474/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Template.java
+END
+Stat.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/openquiz/!svn/ver/1652/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Stat.java
+END
+GameLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/openquiz/!svn/ver/1641/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/GameLog.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/openquiz/!svn/ver/1305/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Category.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/openquiz/!svn/ver/1830/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/User.java
+END
+GroupRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/openquiz/!svn/ver/1305/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/GroupRole.java
+END
+QuestionIdentification.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionIdentification.java
+END
+QuestionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/openquiz/!svn/ver/1652/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/QuestionSet.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/openquiz/!svn/ver/1305/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Session.java
+END
+Team.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/openquiz/!svn/ver/1698/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/model/Team.java
+END

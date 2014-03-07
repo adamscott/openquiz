@@ -1,0 +1,337 @@
+<!-- Indices written at Tue, 12 Nov 2013 18:36:41 UTC -->
+
+<datastore-indexes autoGenerate="false">
+    
+    <datastore-index kind="Choice" ancestor="true" source="manual">
+        <property name="choices_INTEGER_IDX" direction="asc"/>
+    </datastore-index>
+    
+    <datastore-index kind="GameStat" ancestor="false" source="manual">
+        <property name="statsFor" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    
+    <datastore-index kind="GameStat" ancestor="false" source="manual">
+        <property name="statsFor" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+        <property name="team1" direction="asc"/>
+        <property name="team2" direction="asc"/>
+    </datastore-index>
+    
+    <datastore-index kind="QuestionSetSection" ancestor="true" source="manual">
+        <property name="sectionList_INTEGER_IDX" direction="asc"/>
+    </datastore-index>
+    
+    <datastore-index kind="TemplateSection" ancestor="true" source="manual">
+        <property name="sectionList_INTEGER_IDX" direction="asc"/>
+    </datastore-index>
+    
+    <datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionAnagram" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	
+    <datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionAssociation" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	
+    <datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionGeneral" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	
+    <datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionIdentification" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	
+    <datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionIntru" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	
+    <datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+	<datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+		<property name="language" direction="asc"/>
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+		<property name="category" direction="asc" />
+		<property name="degree" direction="asc" />
+		<property name="isReported" direction="asc" />
+		<property name="availableDate" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+        <property name="category" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    <datastore-index kind="QuestionMedia" ancestor="false" source="manual">
+        <property name="category" direction="asc" />
+        <property name="degree" direction="asc"/>
+        <property name="language" direction="asc"/>
+        <property name="isReported" direction="asc"/>
+        <property name="availableDate" direction="asc"/>
+    </datastore-index>
+    
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc" />
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc"/>
+        <property name="questionSet" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc"/>
+		<property name="teams" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc"/>
+        <property name="players" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    <datastore-index kind="Game" ancestor="false" source="manual">
+        <property name="active" direction="asc"/>
+        <property name="teams" direction="asc"/>
+        <property name="players" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    
+    <datastore-index kind="GameStat" ancestor="false" source="manual">
+        <property name="statsFor" direction="asc"/>
+        <property name="teams" direction="asc"/>
+        <property name="gameDate" direction="desc"/>
+    </datastore-index>
+    
+</datastore-indexes>
+

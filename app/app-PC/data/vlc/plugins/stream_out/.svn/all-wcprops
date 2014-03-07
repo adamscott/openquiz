@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out
+END
+libstream_out_es_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_es_plugin.dll
+END
+libstream_out_setid_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_setid_plugin.dll
+END
+libstream_out_gather_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_gather_plugin.dll
+END
+libstream_out_duplicate_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_duplicate_plugin.dll
+END
+libstream_out_record_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_record_plugin.dll
+END
+libstream_out_select_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_select_plugin.dll
+END
+libstream_out_transcode_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_transcode_plugin.dll
+END
+libstream_out_description_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_description_plugin.dll
+END
+libstream_out_mosaic_bridge_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_mosaic_bridge_plugin.dll
+END
+libstream_out_dummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_dummy_plugin.dll
+END
+libstream_out_bridge_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_bridge_plugin.dll
+END
+libstream_out_autodel_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_autodel_plugin.dll
+END
+libstream_out_delay_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_delay_plugin.dll
+END
+libstream_out_standard_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_standard_plugin.dll
+END
+libstream_out_raop_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_raop_plugin.dll
+END
+libstream_out_smem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_smem_plugin.dll
+END
+libstream_out_langfromtelx_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_langfromtelx_plugin.dll
+END
+libstream_out_rtp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_rtp_plugin.dll
+END
+libstream_out_display_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_out/libstream_out_display_plugin.dll
+END

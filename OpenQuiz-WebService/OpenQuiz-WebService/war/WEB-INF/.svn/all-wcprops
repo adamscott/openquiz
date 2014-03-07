@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/web.xml
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1840/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/appengine-web.xml
+END
+cron.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/cron.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/logging.properties
+END
+datastore-indexes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/openquiz/!svn/ver/1802/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/datastore-indexes.xml
+END
+backends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/war/WEB-INF/backends.xml
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jettison-1.1.jar
+END
+appengine-gcs-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/appengine-gcs-client.jar
+END
+jackson-mapper-asl-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jackson-mapper-asl-1.9.2.jar
+END
+testrules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/testrules.txt
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jsr173_1.0_api.jar
+END
+jackson-core-asl-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jackson-core-asl-1.9.2.jar
+END
+asm-3.1r.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/asm-3.1r.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/activation.jar
+END
+jersey-server-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-server-1.2.jar
+END
+jaxb1-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jaxb1-impl.jar
+END
+jackson-xc-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jackson-xc-1.9.2.jar
+END
+jersey-json-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-json-1.2.jar
+END
+jaxb-xjc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jaxb-xjc.jar
+END
+jarjar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openquiz/!svn/ver/197/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jarjar.sh
+END
+jarjar-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jarjar-1.3.jar
+END
+jersey-client-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-client-1.2.jar
+END
+jersey-multipart-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-multipart-1.2.jar
+END
+jackson-jaxrs-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jackson-jaxrs-1.9.2.jar
+END
+guava-14.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/guava-14.0.1.jar
+END
+mimepull-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/mimepull-1.2.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jaxb-impl.jar
+END
+jersey-core-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-core-1.2.jar
+END
+jersey-server-1.2r.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jersey-server-1.2r.jar
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jsr311-api-1.1.1.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/jaxb-api.jar
+END

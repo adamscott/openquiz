@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openquiz/!svn/ver/1936/Code%20source/website/src/main/java/openquiz/website/util
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openquiz/!svn/ver/1250/Code%20source/website/src/main/java/openquiz/website/util/Theme.java
+END
+WebServiceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1813/Code%20source/website/src/main/java/openquiz/website/util/WebServiceCache.java
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1936/Code%20source/website/src/main/java/openquiz/website/util/messages_en.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/1250/Code%20source/website/src/main/java/openquiz/website/util/Messages.java
+END
+WebsiteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1250/Code%20source/website/src/main/java/openquiz/website/util/WebsiteServlet.java
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1936/Code%20source/website/src/main/java/openquiz/website/util/messages_fr.properties
+END
+Misc.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/1602/Code%20source/website/src/main/java/openquiz/website/util/Misc.java
+END
+Navigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1785/Code%20source/website/src/main/java/openquiz/website/util/Navigation.java
+END
+SessionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1293/Code%20source/website/src/main/java/openquiz/website/util/SessionConstants.java
+END

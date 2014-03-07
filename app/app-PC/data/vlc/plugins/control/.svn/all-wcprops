@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control
+END
+libnetsync_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libnetsync_plugin.dll
+END
+liboldrc_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/liboldrc_plugin.dll
+END
+libhotkeys_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libhotkeys_plugin.dll
+END
+libglobalhotkeys_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libglobalhotkeys_plugin.dll
+END
+libdummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libdummy_plugin.dll
+END
+libgestures_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libgestures_plugin.dll
+END
+libntservice_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/control/libntservice_plugin.dll
+END

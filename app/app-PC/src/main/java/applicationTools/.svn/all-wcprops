@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openquiz/!svn/ver/1902/Code%20source/app/app-PC/src/main/java/applicationTools
+END
+ButtonPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1161/Code%20source/app/app-PC/src/main/java/applicationTools/ButtonPainter.java
+END
+BackgroundPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1537/Code%20source/app/app-PC/src/main/java/applicationTools/BackgroundPanel.java
+END
+FontManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1309/Code%20source/app/app-PC/src/main/java/applicationTools/FontManager.java
+END
+MultilineLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1838/Code%20source/app/app-PC/src/main/java/applicationTools/MultilineLabel.java
+END
+DownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1902/Code%20source/app/app-PC/src/main/java/applicationTools/DownloadManager.java
+END
+ButtonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1064/Code%20source/app/app-PC/src/main/java/applicationTools/ButtonRenderer.java
+END
+WindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1862/Code%20source/app/app-PC/src/main/java/applicationTools/WindowManager.java
+END
+SoundPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1775/Code%20source/app/app-PC/src/main/java/applicationTools/SoundPlayer.java
+END
+CustomButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1161/Code%20source/app/app-PC/src/main/java/applicationTools/CustomButton.java
+END
+ButtonManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1393/Code%20source/app/app-PC/src/main/java/applicationTools/ButtonManager.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1537/Code%20source/app/app-PC/src/main/java/applicationTools/ColorManager.java
+END
+BackgroundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1902/Code%20source/app/app-PC/src/main/java/applicationTools/BackgroundManager.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openquiz/!svn/ver/1171/Code%20source/app/app-PC/src/main/java/applicationTools/Command.java
+END
+StatusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/1537/Code%20source/app/app-PC/src/main/java/applicationTools/StatusManager.java
+END
+ButtonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1161/Code%20source/app/app-PC/src/main/java/applicationTools/ButtonEditor.java
+END
+IconManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1798/Code%20source/app/app-PC/src/main/java/applicationTools/IconManager.java
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1902/Code%20source/app/app-PC/src/main/java/applicationTools/SoundManager.java
+END
+VideoPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1902/Code%20source/app/app-PC/src/main/java/applicationTools/VideoPlayer.java
+END
+BluecoveBluetoothManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1827/Code%20source/app/app-PC/src/main/java/applicationTools/BluecoveBluetoothManager.java
+END
+RepaintWindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1537/Code%20source/app/app-PC/src/main/java/applicationTools/RepaintWindowManager.java
+END
+OptionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1862/Code%20source/app/app-PC/src/main/java/applicationTools/OptionsManager.java
+END
+TableHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1161/Code%20source/app/app-PC/src/main/java/applicationTools/TableHeaderRenderer.java
+END
+GlassPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/1161/Code%20source/app/app-PC/src/main/java/applicationTools/GlassPanel.java
+END

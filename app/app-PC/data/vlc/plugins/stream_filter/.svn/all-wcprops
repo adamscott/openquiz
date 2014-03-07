@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_filter
+END
+libstream_filter_record_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_filter/libstream_filter_record_plugin.dll
+END
+libstream_filter_dash_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_filter/libstream_filter_dash_plugin.dll
+END
+libstream_filter_httplive_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/stream_filter/libstream_filter_httplive_plugin.dll
+END

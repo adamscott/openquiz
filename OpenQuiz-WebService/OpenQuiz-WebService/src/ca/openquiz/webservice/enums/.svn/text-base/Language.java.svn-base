@@ -1,0 +1,11 @@
+package ca.openquiz.webservice.enums;
+
+public enum Language {
+	fr,
+	en,
+	spa,
+	it,
+	por,
+	rus,
+	deu
+}

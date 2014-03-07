@@ -1,0 +1,123 @@
+10
+
+dir
+1952
+https://rickardsbeer.asuscomm.com/svn/openquiz/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile
+https://rickardsbeer.asuscomm.com/svn/openquiz
+
+
+
+2013-12-17T19:20:37.874566Z
+1950
+jacob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+73af130a-93fb-4d8c-b4c5-e43983ef9e17
+
+login
+dir
+
+Openquiz.java
+file
+
+
+
+
+2014-03-07T22:21:32.776825Z
+ea6e7ed46a5f1352c6b9a7b61ad7e87b
+2013-10-08T20:04:33.728399Z
+1167
+jacob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410
+
+currentGame
+dir
+
+wizardTemplate
+dir
+
+util
+dir
+
+currentGameController
+dir
+
+ThreadManager.java
+file
+
+
+
+
+2014-03-07T22:21:32.776825Z
+19aeed0687f140f8d41e5a6dc14a4392
+2013-10-09T15:26:55.009777Z
+1179
+jean-felix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1069
+
+wizardQuestionSet
+dir
+
+bluetooth
+dir
+
+createNewGame
+dir
+
+wizardTeam
+dir
+

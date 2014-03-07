@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="jpa">
+		<class>model.Answer</class>
+		<class>model.CatDegree</class>
+		<class>model.CatGroupRole</class>
+		<class>model.CatLanguage</class>
+		<class>model.CatQuestionStatus</class>
+		<class>model.CatQuestionType</class>
+		<class>model.CatResult</class>
+		<class>model.CatRole</class>
+		<class>model.CatStatementType</class>
+		<class>model.CatUserType</class>
+		<class>model.Choice</class>
+		<class>model.CurrentGameLog</class>
+		<class>model.EventLog</class>
+		<class>model.Game</class>
+		<class>model.GameQuestionSet</class>
+		<class>model.GameQuestionSetPK</class>
+		<class>model.Group</class>
+		<class>model.MasterGameLog</class>
+		<class>model.PlayerStat</class>
+		<class>model.Question</class>
+		<class>model.QuestionSet</class>
+		<class>model.Statement</class>
+		<class>model.Team</class>
+		<class>model.TeamStat</class>
+		<class>model.Tournament</class>
+		<class>model.User</class>
+		<class>model.UserGroupRole</class>
+		<class>model.UserGroupRolePK</class>
+		<class>model.UserRole</class>
+		<class>model.UserRolePK</class>
+		<class>model.UserTeam</class>
+		<class>model.UserTeamPK</class>
+	</persistence-unit>
+</persistence>

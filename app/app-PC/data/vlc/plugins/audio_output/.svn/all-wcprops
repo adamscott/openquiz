@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output
+END
+libaout_file_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output/libaout_file_plugin.dll
+END
+libaout_directx_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output/libaout_directx_plugin.dll
+END
+libwaveout_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output/libwaveout_plugin.dll
+END
+libadummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output/libadummy_plugin.dll
+END
+libamem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_output/libamem_plugin.dll
+END

@@ -1,0 +1,4 @@
+﻿	Indice 1	Indice 2	Indice 3	Indice 4	Difficulte	Util_jeu	Reponse
+1	Voir deuxième indice.	"Cinéaste américain, il est l`auteur de plusieurs films sur les animaux."	Il est surtout reconnu pour ses films en bandes dessinées.	Il a créé les personnages de Mickey Mouse et de Donald Duck. 	0	NO	WALT DISNEY
+2	Voir deuxième indice.	"Entré au temple de la Renommée des affaires en 1980, ce Québécois est né en 1854."	"Il abandonne ses études pour devenir journaliste puis sténographe parlementaire à Québec puis à Ottawa.  C'est cependant à Lévis, sa ville natale, qu'il crée la première caisse populaire."	"Depuis 1983, un mouvement porte son nom."	0	NO	ALPHONSE DESJARDINS
+3	Voir deuxième indice.	Je couvre une distance de 3750 km. Mon siège d`administration est situé à Cornwall. 	Je relie l'Atlantique à l'extrémité du Lac Supérieur. 	Je fus inauguré le 26 juin 1969 par la reine Élisabeth II et le président Eisenhower. 	1	NO	VOIE MARITIME DU SAINT-LAURENT

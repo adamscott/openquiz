@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ca.openquiz.mobile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.INTERNET" /> 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    
+    <supports-screens android:smallScreens="false"
+                      android:normalScreens="false"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"
+                      android:requiresSmallestWidthDp="600" />
+        
+    <application
+        android:name="ca.openquiz.mobile.Openquiz"
+        android:allowBackup="true"
+        android:icon="@drawable/openquiz_logo"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="ca.openquiz.mobile.login.LoginAct"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+			android:hardwareAccelerated="false">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ca.openquiz.mobile.wizardQuestionSet.QuestionSetSelection"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/questionSetActivity"
+            android:screenOrientation="landscape" 
+            android:hardwareAccelerated="false">
+        </activity>
+		<activity
+		    android:hardwareAccelerated="false"
+            android:name="ca.openquiz.mobile.wizardTeam.WizardTeamAct"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" >
+        </activity>    
+        <activity
+            android:name="ca.openquiz.mobile.wizardTemplate.WizardCreateTemplateAct"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="landscape">
+        </activity>  
+        <activity
+            android:name="ca.openquiz.mobile.currentGame.CurrentGameAct"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" >
+        </activity>    
+        <activity
+            android:name="ca.openquiz.mobile.bluetooth.BluetoothActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" 
+            android:hardwareAccelerated="false">
+        </activity>     
+        <activity
+            android:name="ca.openquiz.mobile.currentGame.EndOfGameAct"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" >
+        </activity>   
+        <activity
+            android:name="ca.openquiz.mobile.wizardTeam.JoinGameActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="landscape" >
+        </activity>  
+        
+    </application>
+    
+</manifest>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openquiz/!svn/ver/1663/Code%20source/app/app-logique/src/main/java/serialization
+END
+PreferencesImportExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1120/Code%20source/app/app-logique/src/main/java/serialization/PreferencesImportExport.java
+END
+GameDataImportExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1415/Code%20source/app/app-logique/src/main/java/serialization/GameDataImportExport.java
+END
+PreferencesSerializationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/980/Code%20source/app/app-logique/src/main/java/serialization/PreferencesSerializationObject.java
+END
+GameDataSerializationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1302/Code%20source/app/app-logique/src/main/java/serialization/GameDataSerializationObject.java
+END
+SerializationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1663/Code%20source/app/app-logique/src/main/java/serialization/SerializationManager.java
+END

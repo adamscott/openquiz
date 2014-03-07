@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model
+END
+TeamStat.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/TeamStat.class
+END
+QuestionSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/QuestionSet.class
+END
+CatDegree.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatDegree.class
+END
+EventLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/EventLog.class
+END
+UserTeam.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserTeam.class
+END
+MasterGameLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/MasterGameLog.class
+END
+PlayerStat.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/PlayerStat.class
+END
+CatRole.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatRole.class
+END
+UserRolePK.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserRolePK.class
+END
+Answer.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Answer.class
+END
+CatQuestionType.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatQuestionType.class
+END
+CatQuestionStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatQuestionStatus.class
+END
+Statement.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Statement.class
+END
+CatResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatResult.class
+END
+GameQuestionSetPK.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/GameQuestionSetPK.class
+END
+UserGroupRolePK.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserGroupRolePK.class
+END
+CatLanguage.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatLanguage.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/User.class
+END
+CurrentGameLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CurrentGameLog.class
+END
+UserTeamPK.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserTeamPK.class
+END
+Team.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Team.class
+END
+Choice.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Choice.class
+END
+Group.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Group.class
+END
+Tournament.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Tournament.class
+END
+CatStatementType.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatStatementType.class
+END
+UserRole.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserRole.class
+END
+CatGroupRole.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatGroupRole.class
+END
+Question.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Question.class
+END
+CatUserType.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/CatUserType.class
+END
+Game.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/Game.class
+END
+GameQuestionSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/GameQuestionSet.class
+END
+UserGroupRole.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/176/Code%20source/OpenQuiz-WebService/jpa/build/classes/model/UserGroupRole.class
+END

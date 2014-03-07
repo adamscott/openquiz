@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/1813/Code%20source/website/src/main/java/openquiz/website/pages/statistics
+END
+TeamStatTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1792/Code%20source/website/src/main/java/openquiz/website/pages/statistics/TeamStatTab.java
+END
+IndividualStatTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1813/Code%20source/website/src/main/java/openquiz/website/pages/statistics/IndividualStatTab.java
+END
+GameStatTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1800/Code%20source/website/src/main/java/openquiz/website/pages/statistics/GameStatTab.java
+END
+StatChartHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1800/Code%20source/website/src/main/java/openquiz/website/pages/statistics/StatChartHelper.java
+END
+StatsPeriodSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/openquiz/!svn/ver/1789/Code%20source/website/src/main/java/openquiz/website/pages/statistics/StatsPeriodSelector.java
+END

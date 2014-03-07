@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >	
+	    
+	<LinearLayout    
+		android:id="@+id/TitleLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:paddingTop="@dimen/Margin" >	    
+   
+       <TextView
+           android:id="@+id/wizardteam_title"
+           android:layout_width="wrap_content"
+           android:layout_height="42dp"
+           android:text="@string/wizardteam_team"
+           android:textAppearance="?android:attr/textAppearanceLargeInverse" />	  
+            
+	</LinearLayout>
+      
+	<LinearLayout
+		android:id="@+id/GroupLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="@dimen/SidePadding"
+		android:paddingRight="@dimen/SidePadding">
+	
+		<TextView
+		    android:id="@+id/wizardteam_group"
+		    android:layout_width="130dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardteam_group"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardteam_group_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:spinnerMode="dialog" />
+	
+	</LinearLayout>
+
+	<LinearLayout
+	    android:id="@+id/TeamLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="@dimen/SidePadding"
+	    android:paddingRight="@dimen/SidePadding"
+	    android:paddingTop="@dimen/Margin" >
+	
+		<TextView
+		    android:id="@+id/wizardteam_team"
+		    android:layout_width="130dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardteam_team"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<Spinner
+		    android:id="@+id/wizardteam_team_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:spinnerMode="dialog" />
+	
+	</LinearLayout>
+    
+	<LinearLayout
+	    android:id="@+id/UserLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="@dimen/SidePadding"
+	    android:paddingRight="@dimen/SidePadding"
+	    android:paddingTop="@dimen/Margin" >
+	
+		<TextView
+		    android:id="@+id/wizardteam_user"
+		    android:layout_width="130dp"
+		    android:layout_height="42dp"
+		    android:text="@string/wizardteam_user"
+		    android:textAlignment="center"
+		    android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+	
+		<LinearLayout
+			android:id="@+id/UserLayoutSpinner"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical" >
+	   
+			<Spinner
+			    android:id="@+id/wizardteam_user_spinner_1"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+		    	android:spinnerMode="dialog" />
+			  
+			<Spinner
+			    android:id="@+id/wizardteam_user_spinner_2"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_marginTop="@dimen/Margin"
+		    	android:spinnerMode="dialog" />
+			
+			<Spinner
+			    android:id="@+id/wizardteam_user_spinner_3"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_marginTop="@dimen/Margin"
+		    	android:spinnerMode="dialog" />
+			
+			<Spinner
+			    android:id="@+id/wizardteam_user_spinner_4"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_marginTop="@dimen/Margin"
+		    	android:spinnerMode="dialog" />		
+			    							
+	 		</LinearLayout>	 
+	 		 
+	</LinearLayout>
+	
+</LinearLayout>	    	    

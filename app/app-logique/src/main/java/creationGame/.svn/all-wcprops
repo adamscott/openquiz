@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openquiz/!svn/ver/1874/Code%20source/app/app-logique/src/main/java/creationGame
+END
+CreateNewGameModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1835/Code%20source/app/app-logique/src/main/java/creationGame/CreateNewGameModel.java
+END
+CreateNewGameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1874/Code%20source/app/app-logique/src/main/java/creationGame/CreateNewGameController.java
+END
+ICreateNewGameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1835/Code%20source/app/app-logique/src/main/java/creationGame/ICreateNewGameView.java
+END

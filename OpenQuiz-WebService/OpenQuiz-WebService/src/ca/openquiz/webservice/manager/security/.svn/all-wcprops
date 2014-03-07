@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/openquiz/!svn/ver/1802/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/manager/security
+END
+RoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/openquiz/!svn/ver/1802/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/manager/security/RoleManager.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/openquiz/!svn/ver/1445/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/manager/security/SessionManager.java
+END
+SecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/openquiz/!svn/ver/1802/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/manager/security/SecurityManager.java
+END
+BCrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/openquiz/!svn/ver/599/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/manager/security/BCrypt.java
+END

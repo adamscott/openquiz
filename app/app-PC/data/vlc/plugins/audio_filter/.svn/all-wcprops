@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter
+END
+libaudiobargraph_a_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libaudiobargraph_a_plugin.dll
+END
+libmono_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libmono_plugin.dll
+END
+libaudio_format_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libaudio_format_plugin.dll
+END
+libmpgatofixed32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libmpgatofixed32_plugin.dll
+END
+libkaraoke_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libkaraoke_plugin.dll
+END
+liba52tospdif_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/liba52tospdif_plugin.dll
+END
+libdtstospdif_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libdtstospdif_plugin.dll
+END
+liba52tofloat32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/liba52tofloat32_plugin.dll
+END
+libparam_eq_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libparam_eq_plugin.dll
+END
+libsimple_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libsimple_channel_mixer_plugin.dll
+END
+libconverter_fixed_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libconverter_fixed_plugin.dll
+END
+libheadphone_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libheadphone_channel_mixer_plugin.dll
+END
+libspatializer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libspatializer_plugin.dll
+END
+libdtstofloat32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libdtstofloat32_plugin.dll
+END
+libugly_resampler_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libugly_resampler_plugin.dll
+END
+libscaletempo_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libscaletempo_plugin.dll
+END
+libcompressor_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libcompressor_plugin.dll
+END
+libnormvol_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libnormvol_plugin.dll
+END
+libsamplerate_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libsamplerate_plugin.dll
+END
+libspeex_resampler_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libspeex_resampler_plugin.dll
+END
+libdolby_surround_decoder_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libdolby_surround_decoder_plugin.dll
+END
+libchorus_flanger_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libchorus_flanger_plugin.dll
+END
+libequalizer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libequalizer_plugin.dll
+END
+libtrivial_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_filter/libtrivial_channel_mixer_plugin.dll
+END

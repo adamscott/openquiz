@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1906/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums
+END
+QuestionTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/openquiz/!svn/ver/1454/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/QuestionTarget.java
+END
+CategoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/openquiz/!svn/ver/1906/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/CategoryType.java
+END
+TeamPositionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/openquiz/!svn/ver/1641/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/TeamPositionEnum.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/openquiz/!svn/ver/695/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/Role.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/openquiz/!svn/ver/695/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/Language.java
+END
+ReportReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/openquiz/!svn/ver/790/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/ReportReason.java
+END
+QuestionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/openquiz/!svn/ver/1793/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/QuestionType.java
+END
+Degree.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/openquiz/!svn/ver/694/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/Degree.java
+END
+Bucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/openquiz/!svn/ver/1267/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/enums/Bucket.java
+END

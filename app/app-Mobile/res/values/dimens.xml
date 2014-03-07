@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TopPadding">200dp</dimen>
+    <dimen name="TopPaddingSmall">30dp</dimen>
+    <dimen name="SidePadding">40dp</dimen>
+    <dimen name="Margin">20dp</dimen>
+    <dimen name="logoutPaddingTop">5dp</dimen>
+    <dimen name="logoutPaddingLeft">5dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_width">180dp</dimen>
+    <dimen name="editText_width_small">100dp</dimen>
+</resources>

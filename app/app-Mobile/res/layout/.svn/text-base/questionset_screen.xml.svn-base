@@ -1,0 +1,129 @@
+<FrameLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:swipeytabs="http://schemas.android.com/apk/res/ca.openquiz.mobile"
+    android:id="@+id/MainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:fitsSystemWindows="true"
+    android:gravity="center_horizontal"
+    tools:context="ca.openquiz.mobile.wizardQuestionSet.QuestionSetSelection" >
+
+    <LinearLayout
+        android:id="@+id/mainFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/userlogoutButtonQS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:alpha="0.5"
+                android:paddingLeft="@dimen/logoutPaddingLeft"
+                android:paddingTop="@dimen/logoutPaddingTop"
+                android:src="@drawable/userlogouticon" />
+
+            <TextView
+                android:id="@+id/questionset_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:gravity="center"
+                android:paddingLeft="100dp"
+                android:paddingRight="100dp"
+                android:paddingTop="@dimen/Margin"
+                android:text="@string/questionSet_Title"
+                android:textAppearance="?android:attr/textAppearanceLargeInverse" />
+
+            <LinearLayout
+                android:id="@+id/ButtonAddLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:gravity="right"
+                android:paddingTop="10dp" >
+
+                <Button
+                    android:id="@+id/btnAdd"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="+"
+                    android:visibility="invisible" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ca.openquiz.mobile.wizardQuestionSet.SwipeyTabs
+                android:id="@+id/swipeytabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#55000000"
+                swipeytabs:bottomBarColor="#000000"
+                swipeytabs:bottomBarHeight="2dip"
+                swipeytabs:tabIndicatorHeight="4dip" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="fill_parent"
+                android:layout_height="0px"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ButtonsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingLeft="@dimen/SidePadding"
+            android:paddingRight="@dimen/SidePadding"
+            android:paddingTop="10dp"
+            android:orientation="horizontal"
+            android:focusableInTouchMode="true" >
+
+            <TextView
+                android:id="@+id/lblGameName"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:gravity="center"
+                android:text="@string/GameName"
+                android:textAlignment="center"
+                android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+            <EditText
+                android:id="@+id/txtGameName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="text"
+                android:focusableInTouchMode="true" />
+
+            <Button
+                android:id="@+id/btn_play"
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_marginLeft="@dimen/Margin"
+                android:text="@string/button_play" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ca.openquiz.mobile.util.LoadingView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#55000000"
+        android:clickable="true" />
+
+</FrameLayout>

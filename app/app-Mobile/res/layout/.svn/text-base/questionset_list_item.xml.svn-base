@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/qsName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@+id/qsName"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:textSize="23sp"
+        android:layout_alignParentLeft="true" />
+	<TextView
+        android:id="@+id/qsDateLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/qsDateLabel"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:layout_below="@id/qsName"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/qsDate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@+id/qsDate"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:layout_below="@id/qsName"
+        android:layout_toRightOf="@id/qsDateLabel" />
+
+    <TextView
+        android:id="@+id/qsCountLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/qsCountLabel"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:layout_marginLeft="60dp"
+        android:layout_below="@id/qsName"
+        android:layout_toLeftOf="@+id/qsCount" />
+
+    <TextView
+        android:id="@id/qsCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@+id/qsCount"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:layout_below="@id/qsName"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>
+
+ 

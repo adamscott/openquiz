@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/converter
+END
+KeyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/openquiz/!svn/ver/1010/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/converter/KeyConverter.java
+END
+CategoryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/openquiz/!svn/ver/892/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/converter/CategoryConverter.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/openquiz/!svn/ver/1067/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/converter/DateConverter.java
+END
+JsonKeyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/openquiz/!svn/ver/1760/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/converter/JsonKeyConverter.java
+END

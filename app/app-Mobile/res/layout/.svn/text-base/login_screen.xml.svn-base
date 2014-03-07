@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fullscreen_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:fitsSystemWindows="true"
+    tools:context=".LoginAct" >
+
+    <LinearLayout
+        android:id="@+id/fullscreen_content_controls"
+        style="?buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@color/black_overlay"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent" />
+
+    <LinearLayout
+        android:id="@+id/MainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/UserLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusableInTouchMode="true"
+            android:paddingLeft="@dimen/SidePadding"
+            android:paddingRight="@dimen/SidePadding" >
+
+            <TextView
+                android:id="@+id/lblUser"
+                android:layout_width="130dp"
+                android:layout_height="42dp"
+                android:text="@string/User"
+                android:textAlignment="center"
+                android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+            <EditText
+                android:id="@+id/txtUser"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:focusableInTouchMode="true"
+                android:inputType="textEmailAddress" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/PasswordLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/SidePadding"
+            android:paddingRight="@dimen/SidePadding"
+            android:paddingTop="30dp" >
+
+            <TextView
+                android:id="@+id/lblPassword"
+                android:layout_width="130dp"
+                android:layout_height="42dp"
+                android:text="@string/Password"
+                android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+            <EditText
+                android:imeOptions="actionGo"
+                android:id="@+id/txtPassword"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPassword" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ButtonsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="30dp" >
+
+            <Button
+                android:id="@+id/btnNoAuth"
+                android:visibility="gone"
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_marginRight="@dimen/Margin"
+                android:text="@string/NoAuthButton" />
+
+            <Button
+                android:id="@+id/btnAuth"
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/AuthButton" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ca.openquiz.mobile.util.LoadingView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#55000000"
+        android:clickable="true" />
+
+</FrameLayout>

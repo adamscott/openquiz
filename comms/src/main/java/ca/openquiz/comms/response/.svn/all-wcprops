@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1736/Code%20source/comms/src/main/java/ca/openquiz/comms/response
+END
+QuestionSetResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/QuestionSetResponse.java
+END
+TournamentListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/openquiz/!svn/ver/1091/Code%20source/comms/src/main/java/ca/openquiz/comms/response/TournamentListResponse.java
+END
+KeyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/KeyResponse.java
+END
+StringKeyDateObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/StringKeyDateObj.java
+END
+IntegerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1270/Code%20source/comms/src/main/java/ca/openquiz/comms/response/IntegerResponse.java
+END
+GameStatListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1651/Code%20source/comms/src/main/java/ca/openquiz/comms/response/GameStatListResponse.java
+END
+QuestionListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/QuestionListResponse.java
+END
+GameListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1263/Code%20source/comms/src/main/java/ca/openquiz/comms/response/GameListResponse.java
+END
+TemplateListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/TemplateListResponse.java
+END
+GameLogListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1608/Code%20source/comms/src/main/java/ca/openquiz/comms/response/GameLogListResponse.java
+END
+UserListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/UserListResponse.java
+END
+BaseResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1128/Code%20source/comms/src/main/java/ca/openquiz/comms/response/BaseResponse.java
+END
+StringKeyPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/StringKeyPair.java
+END
+UserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1570/Code%20source/comms/src/main/java/ca/openquiz/comms/response/UserResponse.java
+END
+UserResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1736/Code%20source/comms/src/main/java/ca/openquiz/comms/response/UserResponseWrapper.java
+END
+QuestionSetListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1067/Code%20source/comms/src/main/java/ca/openquiz/comms/response/QuestionSetListResponse.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openquiz/!svn/ver/1933/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util
+END
+TemplateArrayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1933/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/TemplateArrayAdapter.java
+END
+CreateGameValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/openquiz/!svn/ver/1738/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/CreateGameValues.java
+END
+Defines.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1741/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/Defines.java
+END
+AlertBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/1933/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/AlertBuilder.java
+END
+SystemUiHider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/1003/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/SystemUiHider.java
+END
+SystemUiHiderHoneycomb.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/openquiz/!svn/ver/1003/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/SystemUiHiderHoneycomb.java
+END
+QuestionSetArrayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/openquiz/!svn/ver/1933/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/QuestionSetArrayAdapter.java
+END
+SortList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/openquiz/!svn/ver/1551/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/SortList.java
+END
+SwipeDismissListViewTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/1299/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/SwipeDismissListViewTouchListener.java
+END
+LoadingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1623/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/LoadingView.java
+END
+SystemUiHiderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1003/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/util/SystemUiHiderBase.java
+END

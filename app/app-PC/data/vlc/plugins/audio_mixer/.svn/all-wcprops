@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_mixer
+END
+libfloat32_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_mixer/libfloat32_mixer_plugin.dll
+END
+libfixed32_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/audio_mixer/libfixed32_mixer_plugin.dll
+END

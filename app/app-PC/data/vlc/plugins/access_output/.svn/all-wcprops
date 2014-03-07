@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output
+END
+libaccess_output_dummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_dummy_plugin.dll
+END
+libaccess_output_file_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_file_plugin.dll
+END
+libaccess_output_http_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_http_plugin.dll
+END
+libaccess_output_livehttp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_livehttp_plugin.dll
+END
+libaccess_output_shout_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_shout_plugin.dll
+END
+libaccess_output_udp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/access_output/libaccess_output_udp_plugin.dll
+END

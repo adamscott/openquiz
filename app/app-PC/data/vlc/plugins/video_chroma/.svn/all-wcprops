@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma
+END
+libi420_rgb_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libi420_rgb_plugin.dll
+END
+libi422_yuy2_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libi422_yuy2_plugin.dll
+END
+libyuy2_i422_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libyuy2_i422_plugin.dll
+END
+libgrey_yuv_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libgrey_yuv_plugin.dll
+END
+librv32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/librv32_plugin.dll
+END
+libi422_i420_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libi422_i420_plugin.dll
+END
+libi420_yuy2_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libi420_yuy2_plugin.dll
+END
+libyuy2_i420_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_chroma/libyuy2_i420_plugin.dll
+END

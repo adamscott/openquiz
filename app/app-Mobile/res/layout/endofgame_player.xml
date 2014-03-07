@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:padding="5dp" >
+
+     <View 
+         android:id="@+id/screenCenter"
+         android:layout_width="20dp"
+         android:layout_height="0dp"
+         android:layout_centerInParent="true" />
+
+     <TextView
+         android:id="@+id/playerName"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:paddingLeft="20dp"
+       	 android:textAppearance="?android:attr/textAppearanceMediumInverse"
+         android:layout_alignParentLeft="true" />    
+     
+     <TextView
+         android:id="@+id/goodAnswerRatio"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textAppearance="?android:attr/textAppearanceMediumInverse"
+         android:layout_toRightOf="@id/screenCenter" />     
+     <TextView
+         android:id="@+id/separator"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text=" - "
+         android:textAppearance="?android:attr/textAppearanceMediumInverse"
+         android:layout_toRightOf="@id/goodAnswerRatio" />
+     <TextView
+         android:id="@+id/goodAnswerPercentage"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textAppearance="?android:attr/textAppearanceMediumInverse"
+         android:layout_toRightOf="@id/separator" />
+</RelativeLayout>

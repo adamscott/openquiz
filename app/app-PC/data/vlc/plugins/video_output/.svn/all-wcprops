@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output
+END
+libdirect2d_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libdirect2d_plugin.dll
+END
+libdirect3d_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libdirect3d_plugin.dll
+END
+libdrawable_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libdrawable_plugin.dll
+END
+libvdummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libvdummy_plugin.dll
+END
+libwingdi_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libwingdi_plugin.dll
+END
+libdirectx_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libdirectx_plugin.dll
+END
+libyuv_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libyuv_plugin.dll
+END
+libvmem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libvmem_plugin.dll
+END
+libglwin32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libglwin32_plugin.dll
+END
+libcaca_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1904/Code%20source/app/app-PC/data/vlc/plugins/video_output/libcaca_plugin.dll
+END

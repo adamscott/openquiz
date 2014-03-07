@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+   	android:layout_height="match_parent"
+    android:fillViewport="true">
+	<RelativeLayout
+	    android:id="@+id/GeneralRelativeLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:padding="5dp"
+	    android:background="@drawable/currentgame_player_border" >
+	    <TextView
+	        android:id="@+id/currentGame_questionType"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Média"
+	        android:textAppearance="?android:attr/textAppearanceLargeInverse"
+	        android:textSize="28sp"
+	        android:layout_centerInParent="true"
+	        android:layout_alignParentTop="true" />
+	
+	    <TextView
+	        android:id="@+id/currentGame_questionPoints"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_alignParentTop="true"
+	        android:layout_alignParentLeft="true" />
+	    <TextView
+	        android:id="@+id/currentGame_questionPoints_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=" points"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_toRightOf="@id/currentGame_questionPoints"
+	        android:layout_alignParentTop="true" />
+	
+	    <TextView 
+	        android:id="@+id/currentGame_sectionDescription"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textAppearance="?android:attr/textAppearanceLargeInverse"
+	        android:layout_alignParentLeft="true"
+	        android:layout_below="@id/currentGame_questionType" />
+	
+	    <TextView
+	        android:id="@+id/currentGame_questionCategory"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_alignParentTop="true"
+	        android:layout_alignParentRight="true"/>
+	    <TextView
+	        android:id="@+id/currentGame_questionSubCategory"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_below="@id/currentGame_questionCategory"
+	        android:layout_alignParentRight="true" />
+	
+	    <TextView
+	        android:id="@+id/currentGame_questionLabel"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:padding="10dp"
+	        android:text="Question"
+	        android:textAppearance="?android:attr/textAppearanceLargeInverse"
+	        android:textSize="28sp"
+	        android:layout_below="@id/currentGame_sectionDescription" />
+	    <TextView
+	        android:id="@+id/currentGame_question"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingLeft="15dp"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_below="@id/currentGame_questionLabel" />
+	    
+	    <ViewFlipper android:id="@+id/currentGame_MediaButtons_Flipper"
+	        android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:paddingBottom="30dp"
+    		android:layout_above="@+id/currentGame_answerLabel" >
+	        <RelativeLayout android:id="@+id/currentGame_MediaButtons"
+				android:layout_width="match_parent"
+    			android:layout_height="match_parent" >
+                <ImageButton android:id="@+id/currentGame_MediaButtons_Video_Play"
+	                style="?android:attr/buttonStyle"
+	                android:layout_width="75dp"
+	                android:layout_height="75dp"
+	                android:src="@drawable/play"
+	                android:layout_centerInParent="true" /> 
+	            <ImageButton android:id="@+id/currentGame_MediaButtons_Video_Pause"
+	                style="?android:attr/buttonStyle"
+	                android:layout_width="75dp"
+	                android:layout_height="75dp"
+	                android:src="@drawable/pause"
+	                android:layout_marginRight="20dp"
+	                android:layout_toLeftOf="@id/currentGame_MediaButtons_Video_Play" /> 
+                <ImageButton android:id="@+id/currentGame_MediaButtons_Video_Stop"
+	                style="?android:attr/buttonStyle"
+	                android:layout_width="75dp"
+	                android:layout_height="75dp"
+	                android:src="@drawable/stop"
+	                android:layout_marginLeft="20dp"
+	                android:layout_toRightOf="@id/currentGame_MediaButtons_Video_Play" /> 
+	        </RelativeLayout>
+	        <RelativeLayout android:id="@+id/currentGame_MediaButtons_Image"
+				android:layout_width="match_parent"
+    			android:layout_height="match_parent" >
+	            <ImageButton android:id="@+id/currentGame_MediaButtons_ShowImage"
+	                style="?android:attr/buttonStyle"
+	                android:layout_width="75dp"
+	                android:layout_height="75dp"
+	                android:src="@drawable/play"
+	                android:layout_centerInParent="true" /> 
+	        </RelativeLayout>
+	    </ViewFlipper>
+	
+	   <TextView
+	        android:id="@id/currentGame_answerLabel"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:padding="12dp"
+	        android:text="Réponse"
+	        android:textAppearance="?android:attr/textAppearanceLargeInverse"
+	        android:textSize="28sp"
+	        android:layout_above="@+id/currentGame_answer" />
+	    <TextView
+	        android:id="@id/currentGame_answer"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingLeft="15dp"
+	        android:paddingBottom="25dp"
+	        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+	        android:layout_above="@+id/currentGame_progress" />
+	    
+	    <TextView
+	        android:id="@id/currentGame_progress"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingLeft="7dp"
+	        android:paddingBottom="7dp"
+	        android:textAppearance="?android:attr/textAppearanceLargeInverse"
+	        android:layout_alignParentBottom="true" />
+	
+	</RelativeLayout>
+</ScrollView>

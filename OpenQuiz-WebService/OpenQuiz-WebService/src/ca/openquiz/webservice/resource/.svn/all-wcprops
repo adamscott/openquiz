@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource
+END
+KeepAliveResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/openquiz/!svn/ver/1049/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/KeepAliveResource.java
+END
+TeamResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1828/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/TeamResource.java
+END
+QuestionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/QuestionResource.java
+END
+GameResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1828/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/GameResource.java
+END
+ImportResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/ImportResource.java
+END
+GameLogResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/openquiz/!svn/ver/1828/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/GameLogResource.java
+END
+StatResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1840/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/StatResource.java
+END
+TemplateResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/TemplateResource.java
+END
+GroupResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/openquiz/!svn/ver/1698/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/GroupResource.java
+END
+TournamentResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/openquiz/!svn/ver/1445/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/TournamentResource.java
+END
+CategoryResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1840/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/CategoryResource.java
+END
+UserResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1899/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/UserResource.java
+END
+TestResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/TestResource.java
+END
+QuestionSetResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/resource/QuestionSetResource.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/188/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/log4j.properties
+END
+jersey-multipart-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/openquiz/!svn/ver/1506/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/jersey-multipart-config.properties
+END

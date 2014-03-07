@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/openquiz/!svn/ver/1914/Code%20source/app/app-Mobile/res/layout
+END
+joingame_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openquiz/!svn/ver/1738/Code%20source/app/app-Mobile/res/layout/joingame_screen.xml
+END
+currentgame_question_anagram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_anagram.xml
+END
+currentgame_playercontainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/openquiz/!svn/ver/1395/Code%20source/app/app-Mobile/res/layout/currentgame_playercontainer.xml
+END
+currentgame_team_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openquiz/!svn/ver/1708/Code%20source/app/app-Mobile/res/layout/currentgame_team_info.xml
+END
+currentgame_question_association.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_association.xml
+END
+endofgame_player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/endofgame_player.xml
+END
+swipey_tab_indicator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/openquiz/!svn/ver/1075/Code%20source/app/app-Mobile/res/layout/swipey_tab_indicator.xml
+END
+simple_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1723/Code%20source/app/app-Mobile/res/layout/simple_list_item.xml
+END
+bluetooth_test_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openquiz/!svn/ver/1438/Code%20source/app/app-Mobile/res/layout/bluetooth_test_screen.xml
+END
+bluetooth_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1680/Code%20source/app/app-Mobile/res/layout/bluetooth_screen.xml
+END
+wizard_team_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1723/Code%20source/app/app-Mobile/res/layout/wizard_team_screen.xml
+END
+currentgame_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1914/Code%20source/app/app-Mobile/res/layout/currentgame_screen.xml
+END
+currentgame_team.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1910/Code%20source/app/app-Mobile/res/layout/currentgame_team.xml
+END
+activity_swipeytab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1075/Code%20source/app/app-Mobile/res/layout/activity_swipeytab.xml
+END
+currentgame_question_intru.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_intru.xml
+END
+currentgame_player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1713/Code%20source/app/app-Mobile/res/layout/currentgame_player.xml
+END
+fragment_swipeytab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/fragment_swipeytab.xml
+END
+wizard_template_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/openquiz/!svn/ver/1909/Code%20source/app/app-Mobile/res/layout/wizard_template_screen.xml
+END
+wizard_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/openquiz/!svn/ver/1850/Code%20source/app/app-Mobile/res/layout/wizard_template.xml
+END
+questionset_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/questionset_list_item.xml
+END
+currentgame_question_general.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_general.xml
+END
+currentgame_team_pointselection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/openquiz/!svn/ver/1708/Code%20source/app/app-Mobile/res/layout/currentgame_team_pointselection.xml
+END
+currentgame_question_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_media.xml
+END
+currentgame_questioncontainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/openquiz/!svn/ver/1741/Code%20source/app/app-Mobile/res/layout/currentgame_questioncontainer.xml
+END
+wizard_team.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/wizard_team.xml
+END
+currentgame_player_pointselection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/currentgame_player_pointselection.xml
+END
+login_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/login_screen.xml
+END
+currentgame_question_identification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1881/Code%20source/app/app-Mobile/res/layout/currentgame_question_identification.xml
+END
+bluetooth_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/openquiz/!svn/ver/1680/Code%20source/app/app-Mobile/res/layout/bluetooth_list_item.xml
+END
+questionset_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/questionset_screen.xml
+END
+endofgame_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/endofgame_screen.xml
+END
+template_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/template_list_item.xml
+END
+currentgame_teamcontainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/openquiz/!svn/ver/1628/Code%20source/app/app-Mobile/res/layout/currentgame_teamcontainer.xml
+END
+activity_openquiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openquiz/!svn/ver/1662/Code%20source/app/app-Mobile/res/layout/activity_openquiz.xml
+END

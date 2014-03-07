@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/openquiz/!svn/ver/1944/Code%20source/app/app-logique/src/main/java/currentGame
+END
+CurrentGameViewWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/openquiz/!svn/ver/1940/Code%20source/app/app-logique/src/main/java/currentGame/CurrentGameViewWrapper.java
+END
+CurrentGameModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1170/Code%20source/app/app-logique/src/main/java/currentGame/CurrentGameModel.java
+END
+CurrentGameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/openquiz/!svn/ver/1944/Code%20source/app/app-logique/src/main/java/currentGame/CurrentGameController.java
+END
+ICurrentGameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/openquiz/!svn/ver/1940/Code%20source/app/app-logique/src/main/java/currentGame/ICurrentGameView.java
+END

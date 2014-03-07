@@ -1,0 +1,4 @@
+﻿	Question	Mot 1	Mot 2	Mot 3	Associe 1	Associe 2	Associe 3	Reponse 1	Reponse 2	Reponse 3	Difficulte	Util_jeu	Dla marde
+1	Associez la capitale avec le pays.	PARAGUAY	HONDURAS	EQUATEUR	QUITO	TÉGUCIGALPA	ASUNCION	C	B	A	0	NO	77
+2	Associez les personnages de films avec leur créateur.	DOCTEUR JIVAGO	JAMES BOND	HERCULE POIROT	IAN FLEMING	AGATHA CHRISTIE	BORIS PASTERNAK	C	A	B	0	NO	54
+3	Associez le terme avec le sport approprié.	TENNIS	VOILE	TIR À LA CARABINE	BEAUPRÉ	DÉTENTE	VOLÉE	C	A	B	0	NO	78

@@ -1,0 +1,97 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LoginAct"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@drawable/background2" >
+	<FrameLayout
+	    android:id="@+id/fullscreen_content"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true" >
+		
+	    <ScrollView
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content" >
+	
+	        <RelativeLayout
+	            android:id="@+id/RelativeLayoutWizard"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+	
+	            <LinearLayout
+	                android:id="@+id/MainLayoutVertical"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:orientation="vertical" >
+	
+	                <LinearLayout
+	                    android:id="@+id/MainLayoutHorizontal"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="match_parent"
+	                    android:orientation="horizontal" >
+	
+	                    <include
+	                        android:id="@+id/wizard_team_1"
+	                        android:layout_width="match_parent"
+	                        android:layout_height="match_parent"
+	                        android:layout_weight="1"
+	                        layout="@layout/wizard_team" />
+	
+	                    <include
+	                        android:id="@+id/wizard_team_2"
+	                        android:layout_width="match_parent"
+	                        android:layout_height="match_parent"
+	                        android:layout_weight="1"
+	                        layout="@layout/wizard_team" />
+	                </LinearLayout>
+	
+	                <RelativeLayout
+	                    android:id="@+id/ButtonsLayout"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="wrap_content"
+	                    android:gravity="right"
+	                    android:paddingBottom="@dimen/Margin"
+	                    android:paddingRight="@dimen/SidePadding"
+	                    android:paddingLeft="@dimen/SidePadding"
+	                    android:paddingTop="@dimen/TopPaddingSmall" >
+	
+	                    <Button
+	                        android:id="@+id/button_next"
+	                        android:layout_width="@dimen/button_width"
+	                        android:layout_height="@dimen/button_height"
+	                        android:text="@string/button_next"
+	                        android:layout_alignParentRight="true" />
+	                    <Button
+	                        android:id="@+id/btnJoinGame"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="@dimen/button_height"
+	                        android:paddingLeft="15dp"
+	                        android:paddingRight="15dp"
+	                        android:text="@string/button_join"
+	                        android:layout_alignParentLeft="true" />
+	                </RelativeLayout>
+	            </LinearLayout>
+	
+	            <ImageView
+	                android:id="@+id/userlogoutButton"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:alpha="0.5"
+	                android:paddingLeft="@dimen/logoutPaddingLeft"
+	                android:paddingTop="@dimen/logoutPaddingTop"
+	                android:src="@drawable/userlogouticon" />
+	        </RelativeLayout>
+	    </ScrollView>
+	</FrameLayout>
+	
+    <ca.openquiz.mobile.util.LoadingView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#55000000"
+        android:clickable="true" />
+</RelativeLayout>
+
+

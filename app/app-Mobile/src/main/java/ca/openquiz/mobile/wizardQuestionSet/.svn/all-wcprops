@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/openquiz/!svn/ver/1934/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet
+END
+QuestionSetSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/openquiz/!svn/ver/1909/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet/QuestionSetSelection.java
+END
+SwipeyTabs.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/openquiz/!svn/ver/1934/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet/SwipeyTabs.java
+END
+SwipeyTabFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/openquiz/!svn/ver/1934/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet/SwipeyTabFragment.java
+END
+SwipeyTabsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/openquiz/!svn/ver/1075/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet/SwipeyTabsAdapter.java
+END
+PlayGameAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/openquiz/!svn/ver/1934/Code%20source/app/app-Mobile/src/main/java/ca/openquiz/mobile/wizardQuestionSet/PlayGameAsyncTask.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/openquiz/!svn/ver/662/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/impl
+END
+appengine-api-stubs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/openquiz/!svn/ver/396/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/impl/appengine-api-stubs.jar
+END
+appengine-api-labs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/openquiz/!svn/ver/396/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/impl/appengine-api-labs.jar
+END
+appengine-local-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/openquiz/!svn/ver/396/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/lib/impl/appengine-local-runtime.jar
+END

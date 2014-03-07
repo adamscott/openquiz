@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter
+END
+SearchTemplateSectionParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/openquiz/!svn/ver/844/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchTemplateSectionParam.java
+END
+SearchGameStatParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/openquiz/!svn/ver/1641/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchGameStatParam.java
+END
+CreateQuestionSetSectionParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/openquiz/!svn/ver/840/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/CreateQuestionSetSectionParam.java
+END
+SearchQuestionParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/openquiz/!svn/ver/1952/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchQuestionParam.java
+END
+SearchGameParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1627/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchGameParam.java
+END
+SearchGameLogParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/openquiz/!svn/ver/927/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchGameLogParam.java
+END
+CreateUserParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/1445/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/CreateUserParam.java
+END
+SearchCategoryParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/openquiz/!svn/ver/1840/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchCategoryParam.java
+END
+SearchUserParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/openquiz/!svn/ver/742/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchUserParam.java
+END
+SearchGroupRoleParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/openquiz/!svn/ver/1290/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchGroupRoleParam.java
+END
+CreateQuestionSetParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/openquiz/!svn/ver/806/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/CreateQuestionSetParam.java
+END
+SearchQuestionSetParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/openquiz/!svn/ver/776/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchQuestionSetParam.java
+END
+SearchTeamParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/openquiz/!svn/ver/950/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchTeamParam.java
+END
+SearchAvailableQuestionsParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/openquiz/!svn/ver/1951/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchAvailableQuestionsParam.java
+END
+SearchTournamentParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/openquiz/!svn/ver/950/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchTournamentParam.java
+END
+SearchGroupParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/openquiz/!svn/ver/943/Code%20source/OpenQuiz-WebService/OpenQuiz-WebService/src/ca/openquiz/webservice/parameter/SearchGroupParam.java
+END

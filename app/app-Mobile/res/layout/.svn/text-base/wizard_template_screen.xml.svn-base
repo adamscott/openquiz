@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MainLayoutVertical"
+    android:background="@drawable/background2"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ca.openquiz.mobile.wizardTemplate.WizardCreateTemplateAct">	
+    
+	<RelativeLayout
+	    android:id="@+id/header_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:paddingBottom="@dimen/Margin">    	    	      
+
+        <TextView
+            android:id="@+id/wizardtemplate_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="false"
+            android:gravity="center"
+            android:paddingLeft="100dp"
+            android:paddingRight="100dp"
+            android:paddingTop="@dimen/Margin"
+            android:text="@string/wizardtemplate_title"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse" />	    
+	    
+		<LinearLayout    
+			android:id="@+id/ButtonAddLayout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingTop="10dp"
+			android:layout_alignParentTop="false"
+			android:gravity="right" >	
+			
+			<Button
+	            android:id="@+id/btnAdd"
+	            android:layout_width="50dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:text="+" />
+	    </LinearLayout>
+	</RelativeLayout>	    
+	
+	<RelativeLayout
+	    android:id="@+id/buttons_layout"
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+        android:paddingTop="@dimen/Margin"
+        android:paddingBottom="@dimen/Margin"
+        android:paddingRight="@dimen/SidePadding" >
+		<Button
+			android:id="@+id/button_play"
+			android:layout_width="@dimen/button_width"
+			android:layout_height="@dimen/button_height"
+			android:layout_alignParentRight="true"
+			android:text="@string/button_play" /> 
+		<Button
+			android:id="@+id/button_save"
+			android:layout_width="@dimen/button_width" 
+			android:layout_height="@dimen/button_height"
+			android:layout_alignParentLeft="true"
+			android:text="@string/button_save" />    
+		<Button
+			android:id="@+id/button_generate"
+			android:layout_width="@dimen/button_width" 
+			android:layout_height="@dimen/button_height"
+			android:layout_centerHorizontal="true"
+			android:text="@string/button_generate" />    
+	</RelativeLayout>	
+	
+	<ListView
+		android:id="@+id/template_list"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" 
+		android:layout_above="@id/buttons_layout"
+		android:layout_below="@id/header_layout"
+		android:listSelector="@android:color/darker_gray" />
+		
+</RelativeLayout>	    	    

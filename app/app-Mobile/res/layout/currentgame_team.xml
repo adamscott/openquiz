@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/layoutTeam" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/currentgame_player_border"
+        layout="@layout/currentgame_teamcontainer"  />
+    
+    <include
+        android:id="@+id/layoutPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/currentgame_player_border"
+        layout="@layout/currentgame_playercontainer"  />
+        
+
+    <include
+        android:id="@+id/layoutPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/currentgame_player_border"
+        layout="@layout/currentgame_playercontainer"  />
+
+    <include
+        android:id="@+id/layoutPlayer3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/currentgame_player_border"
+        layout="@layout/currentgame_playercontainer"   />
+
+    <include
+        android:id="@+id/layoutPlayer4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/currentgame_player_border"
+        layout="@layout/currentgame_playercontainer" />
+</LinearLayout>
